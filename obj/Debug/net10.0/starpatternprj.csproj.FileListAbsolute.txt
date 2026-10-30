@@ -1,0 +1,14 @@
+C:\C#\starpatternprj\bin\Debug\net10.0\starpatternprj.exe
+C:\C#\starpatternprj\bin\Debug\net10.0\starpatternprj.deps.json
+C:\C#\starpatternprj\bin\Debug\net10.0\starpatternprj.runtimeconfig.json
+C:\C#\starpatternprj\bin\Debug\net10.0\starpatternprj.dll
+C:\C#\starpatternprj\bin\Debug\net10.0\starpatternprj.pdb
+C:\C#\starpatternprj\obj\Debug\net10.0\starpatternprj.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\starpatternprj\obj\Debug\net10.0\starpatternprj.AssemblyInfoInputs.cache
+C:\C#\starpatternprj\obj\Debug\net10.0\starpatternprj.AssemblyInfo.cs
+C:\C#\starpatternprj\obj\Debug\net10.0\starpatternprj.csproj.CoreCompileInputs.cache
+C:\C#\starpatternprj\obj\Debug\net10.0\starpatternprj.dll
+C:\C#\starpatternprj\obj\Debug\net10.0\refint\starpatternprj.dll
+C:\C#\starpatternprj\obj\Debug\net10.0\starpatternprj.pdb
+C:\C#\starpatternprj\obj\Debug\net10.0\starpatternprj.genruntimeconfig.cache
+C:\C#\starpatternprj\obj\Debug\net10.0\ref\starpatternprj.dll
