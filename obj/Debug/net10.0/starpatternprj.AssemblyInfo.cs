@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("starpatternprj")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b539235a16492292743cf9012d42f45ce40239b")]
 [assembly: System.Reflection.AssemblyProductAttribute("starpatternprj")]
 [assembly: System.Reflection.AssemblyTitleAttribute("starpatternprj")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

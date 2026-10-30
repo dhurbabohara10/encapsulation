@@ -12,3 +12,4 @@ C:\C#\starpatternprj\obj\Debug\net10.0\refint\starpatternprj.dll
 C:\C#\starpatternprj\obj\Debug\net10.0\starpatternprj.pdb
 C:\C#\starpatternprj\obj\Debug\net10.0\starpatternprj.genruntimeconfig.cache
 C:\C#\starpatternprj\obj\Debug\net10.0\ref\starpatternprj.dll
+C:\C#\starpatternprj\obj\Debug\net10.0\starpatternprj.sourcelink.json
